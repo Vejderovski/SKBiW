@@ -99,8 +99,8 @@ celerybeat-schedule
 # mkdocs documentation
 /site
 
-def sum(int a, int b):
-    return a + b
+def sum(int a, int b, int c):
+    return a + b + c
 
 # mypy
 .mypy_cache/
