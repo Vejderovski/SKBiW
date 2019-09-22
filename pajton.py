@@ -102,6 +102,9 @@ celerybeat-schedule
 def sum(int a, int b, int c):
     return a + b + c
 
+def multiply(int a, int b):
+    return a*b
+
 # mypy
 .mypy_cache/
 .dmypy.json
