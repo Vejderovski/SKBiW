@@ -99,6 +99,9 @@ celerybeat-schedule
 # mkdocs documentation
 /site
 
+def sum(int a, int b):
+    return a + b
+
 # mypy
 .mypy_cache/
 .dmypy.json
